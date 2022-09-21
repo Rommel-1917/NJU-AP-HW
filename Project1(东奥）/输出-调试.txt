@@ -1,0 +1,13 @@
+﻿“Project1(东奥）.exe”(Win32): 已加载“E:\大家自己学\高程\Project1(东奥）\x64\Debug\Project1(东奥）.exe”。已加载符号。
+“Project1(东奥）.exe”(Win32): 已加载“C:\Windows\System32\ntdll.dll”。
+“Project1(东奥）.exe”(Win32): 已加载“C:\Windows\System32\kernel32.dll”。
+“Project1(东奥）.exe”(Win32): 已加载“C:\Windows\System32\KernelBase.dll”。
+“Project1(东奥）.exe”(Win32): 已加载“C:\Windows\System32\msvcp140d.dll”。
+“Project1(东奥）.exe”(Win32): 已加载“C:\Windows\System32\vcruntime140d.dll”。
+“Project1(东奥）.exe”(Win32): 已加载“C:\Windows\System32\vcruntime140_1d.dll”。
+“Project1(东奥）.exe”(Win32): 已加载“C:\Windows\System32\ucrtbased.dll”。
+线程 0x52c8 已退出，返回值为 0 (0x0)。
+线程 0x51b4 已退出，返回值为 3221225786 (0xc000013a)。
+线程 0x35d8 已退出，返回值为 3221225786 (0xc000013a)。
+线程 0x2b70 已退出，返回值为 3221225547 (0xc000004b)。
+程序“[3548] Project1(东奥）.exe”已退出，返回值为 3221225786 (0xc000013a)。

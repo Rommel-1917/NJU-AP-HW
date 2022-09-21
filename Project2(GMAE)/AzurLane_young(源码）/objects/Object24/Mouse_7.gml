@@ -1,0 +1,2 @@
+
+global.tower=2

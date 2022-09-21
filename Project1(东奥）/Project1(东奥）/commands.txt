@@ -1,0 +1,26 @@
+2022-3-31 20:23:39:SELECT * FROM commodity WHEREgood_name CONTAINS ±ù¶Õ¶Õ
+2022-3-31 20:31:48:INSERT INTO commodity VALUES (±ù¶Õ¶Õ  ,100.0 ,10 ,Ò»ÖÖ¿É°®µÄ¼ÍÄîÆ·£¬ËÆºõºÜÄÑÂòµ½  )
+2022-3-31 20:32:26:SELECT * FROM commodity
+2022-3-31 20:32:52:UPDATE commodity SET good_state = ÒÑÏÂ¼Ü WHERE good_id = M001
+2022-3-31 20:33:7:SELECT * FROM commodity
+2022-3-31 20:34:19:INSERT INTO commodity VALUES (¶þÊÖ±ù¶Õ¶Õ  ,120.0 ,4 ,¾­¹ýÒ»´Î½»Ò×µÄ¼ÍÄîÆ·£¬¼Û¸ñ±ÈÈ«ÐÂµÄÂÔµÍ  )
+2022-3-31 20:35:26:UPDATE commodity SET good_price = 122.0 WHERE good_id = M002
+2022-3-31 20:38:58:SELECT * FROM users 
+2022-3-31 20:42:44:SELECT * FROM users 
+2022-3-31 20:43:48:SELECT * FROM commodity
+2022-3-31 20:44:20:SELECT * FROM commodity WHEREgood_name CONTAINS Ï
+2022-3-31 20:44:27:SELECT * FROM commodity WHEREgood_name CONTAINS Ï
+2022-3-31 20:44:48:SELECT * FROM commodity WHEREgood_name CONTAINS Ï
+2022-3-31 20:44:53:SELECT * FROM commodity
+2022-3-31 20:45:35:SELECT * FROM commodity
+2022-3-31 20:47:23:SELECT * FROM commodity
+2022-3-31 20:49:44:SELECT * FROM commodity WHEREgood_name CONTAINS ÐÐ
+2022-3-31 20:50:54:SELECT * FROM commodity WHEREgood_name CONTAINS ±ù
+2022-3-31 20:54:52:SELECT * FROM commodity WHEREgood_name CONTAINS ±ù
+2022-3-31 21:16:56:INSERT INTO commodity VALUES (T001 ,M002 ,122.0 ,2022-3-31 ,U002 ,U002 )
+2022-3-31 21:16:56:UPDATE commodity SET good_num = 3WHERE good_id = M002
+2022-3-31 21:17:1:SELECT * FROM commodity
+2022-3-31 21:17:8:SELECT * FROM commodity WHEREgood_id CONTAINS M002and good_state = ÏúÊÛÖÐ
+2022-3-31 21:17:59:SELECT * FROM order
+2022-3-31 21:22:8:SELECT * FROM order
+2022-3-31 21:22:37:SELECT * FROM order 

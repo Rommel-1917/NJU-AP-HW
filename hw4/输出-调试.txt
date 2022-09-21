@@ -1,0 +1,15 @@
+﻿“hw4.exe”(Win32): 已加载“D:\大家自己学\高程\hw4\x64\Debug\hw4.exe”。已加载符号。
+“hw4.exe”(Win32): 已加载“C:\Windows\System32\ntdll.dll”。
+“hw4.exe”(Win32): 已加载“C:\Windows\System32\kernel32.dll”。
+“hw4.exe”(Win32): 已加载“C:\Windows\System32\KernelBase.dll”。
+“hw4.exe”(Win32): 已加载“C:\Windows\System32\msvcp140d.dll”。
+“hw4.exe”(Win32): 已加载“C:\Windows\System32\vcruntime140d.dll”。
+“hw4.exe”(Win32): 已加载“C:\Windows\System32\vcruntime140_1d.dll”。
+“hw4.exe”(Win32): 已加载“C:\Windows\System32\ucrtbased.dll”。
+线程 0x3100 已退出，返回值为 0 (0x0)。
+“hw4.exe”(Win32): 已加载“C:\Windows\System32\kernel.appcore.dll”。
+“hw4.exe”(Win32): 已加载“C:\Windows\System32\msvcrt.dll”。
+“hw4.exe”(Win32): 已加载“C:\Windows\System32\rpcrt4.dll”。
+线程 0x4958 已退出，返回值为 0 (0x0)。
+线程 0x434c 已退出，返回值为 0 (0x0)。
+程序“[16984] hw4.exe”已退出，返回值为 0 (0x0)。

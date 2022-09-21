@@ -1,0 +1,9 @@
+hp=50
+valida=0
+validb=0
+range=500
+damage=10;
+fire_rate=room_speed;
+shooting=false;
+objecttoshoot=noone
+audio_play_sound(P_s,7,false)

@@ -1,0 +1,64 @@
+﻿  Number.cpp
+D:\大家自己学\高程\oj2\oj2\Number.h(100,9): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\大家自己学\高程\oj2\oj2\Number.h(91,12): error C3863: 不可指定数组类型“int [100]”
+D:\大家自己学\高程\oj2\oj2\Number.h(100,33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\大家自己学\高程\oj2\oj2\Number.h(100,33): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\大家自己学\高程\oj2\oj2\Number.h(101,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\大家自己学\高程\oj2\oj2\Number.h(101,2): error C2803: “operator *”必须至少有一个类类型的形参
+D:\大家自己学\高程\oj2\oj2\Number.h(102,10): error C2146: 语法错误: 缺少“;”(在标识符“temp”的前面)
+D:\大家自己学\高程\oj2\oj2\Number.h(102,10): error C2065: “temp”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(103,10): error C2146: 语法错误: 缺少“;”(在标识符“temp2”的前面)
+D:\大家自己学\高程\oj2\oj2\Number.h(103,10): error C2065: “temp2”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(104,8): error C2065: “num”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(104,23): error C2065: “length”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(104,40): error C2065: “number”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(104,62): error C2065: “number”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(106,4): error C2065: “temp2”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(107,4): error C2065: “temp2”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(108,11): error C2065: “temp2”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(112,4): error C2065: “temp”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(114,10): error C2065: “length”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(114,17): error C2065: “number”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(117,16): error C2065: “number”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(119,17): error C2065: “length”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(121,5): error C2065: “temp”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(121,24): error C2065: “num”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(121,33): error C2065: “number”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(127,8): error C2065: “temp”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(129,5): error C2065: “temp”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(129,24): error C2065: “temp”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(130,5): error C2065: “temp”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(132,23): error C2065: “temp”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(138,4): error C2065: “temp2”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(138,19): error C2065: “temp”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(141,3): error C2065: “temp2”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(142,10): error C2065: “temp2”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(149,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\大家自己学\高程\oj2\oj2\Number.h(149,31): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\大家自己学\高程\oj2\oj2\Number.h(150,2): error C2803: “operator <”必须至少有一个类类型的形参
+D:\大家自己学\高程\oj2\oj2\Number.h(150,2): error C2805: 二进制“operator <”的参数太少
+D:\大家自己学\高程\oj2\oj2\Number.h(151,7): error C2065: “length”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(151,16): error C2065: “number”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(155,7): error C2065: “length”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(155,16): error C2065: “number”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(161,24): error C2065: “length”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(163,9): error C2065: “num”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(163,18): error C2065: “number”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.h(169,2): error C2255: “friend”: 不允许位于类定义之外
+D:\大家自己学\高程\oj2\oj2\Number.h(169,37): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\大家自己学\高程\oj2\oj2\Number.h(169,37): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\大家自己学\高程\oj2\oj2\Number.h(170,1): error C2059: 语法错误:“}”
+D:\大家自己学\高程\oj2\oj2\Number.h(170,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+D:\大家自己学\高程\oj2\oj2\Number.cpp(4,29): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\大家自己学\高程\oj2\oj2\Number.cpp(4,29): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\大家自己学\高程\oj2\oj2\Number.cpp(8,23): error C2065: “number”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.cpp(11,11): error C2065: “number”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.cpp(20,9): error C2146: 语法错误: 缺少“;”(在标识符“n1”的前面)
+D:\大家自己学\高程\oj2\oj2\Number.cpp(20,9): error C3861: “n1”: 找不到标识符
+D:\大家自己学\高程\oj2\oj2\Number.cpp(21,9): error C2146: 语法错误: 缺少“;”(在标识符“n2”的前面)
+D:\大家自己学\高程\oj2\oj2\Number.cpp(21,9): error C3861: “n2”: 找不到标识符
+D:\大家自己学\高程\oj2\oj2\Number.cpp(22,9): error C2146: 语法错误: 缺少“;”(在标识符“n3”的前面)
+D:\大家自己学\高程\oj2\oj2\Number.cpp(22,9): error C2065: “n3”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.cpp(22,14): error C2065: “n1”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.cpp(22,19): error C2065: “n2”: 未声明的标识符
+D:\大家自己学\高程\oj2\oj2\Number.cpp(23,13): error C2065: “n3”: 未声明的标识符

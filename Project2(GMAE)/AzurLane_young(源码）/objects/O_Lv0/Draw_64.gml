@@ -1,0 +1,5 @@
+draw_self()
+draw_set_font(Font1)
+draw_set_color(c_yellow)
+draw_text(x,y,"1-1")
+draw_set_color(c_white)
